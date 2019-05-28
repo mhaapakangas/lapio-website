@@ -1,3 +1,15 @@
-p {
-    background-color: red;
+* {
+  color: brown;
+}
+
+li {
+  color: violet;
+}
+
+.paaotsikko {
+  color: blue;
+}
+
+#punainen-kohta {
+  color: red;
 }
